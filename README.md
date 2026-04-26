@@ -12,7 +12,7 @@
 
 ## When I code, I rely on
 <div>
-  <img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=java&logoColor=FF2E63"/>
+  <img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF2E63"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-0D0221?style=for-the-badge&logo=springboot&logoColor=00F5A0"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-0D0221?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/REST%20API-0D0221?style=for-the-badge&logoColor=08F7FE&color=0D0221"/>
@@ -40,35 +40,16 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-- 🎮 Tic-Tac-Toe (JavaScript)
-- 🧾 Supermarket Billing System (C++)
-- 🔧 Motor Part Shop (C++)
-- 📊 Data Structures & Algorithms (C++)
-- 💪 Gold Gym Master (React)
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manishpaliwal0113&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishpaliwal0113&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manishpaliwal0113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=7B2FF7&icon_color=08F7FE&text_color=FFFFFF&ring_color=7B2FF7" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishpaliwal0113&theme=tokyonight&hide_border=true&background=0D0221&ring=7B2FF7&fire=FF2E63&currStreakLabel=FFFFFF" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishpaliwal0113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=7B2FF7&text_color=FFFFFF"/>
 </p>
 
 ---
