@@ -8,8 +8,6 @@
 ## 👋 Hi there, I'm Manish Kumar!
 💻 I'm a Backend Developer with 2+ years of experience in building high-scale distributed systems using **Java, Spring Boot, and Apache Kafka**. I love turning ideas into robust, efficient, and impactful solutions.
 
----
-
 ## When I code, I rely on
 <div>
   <img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF2E63"/>
@@ -38,41 +36,31 @@
   <img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00F5FF"/>
 </div>
 
----
+## 🏆 Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1721-0D0221?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  <img src="https://img.shields.io/badge/Global%20Rank-644-0D0221?style=for-the-badge&logo=trophy&logoColor=C77DFF"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-1300%2B-0D0221?style=for-the-badge&logo=code&logoColor=00F5FF"/>
+</p>
 
-## 📊 GitHub Stats
+## Let's Connect!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manishpaliwal0113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=7B2FF7&icon_color=08F7FE&text_color=FFFFFF&ring_color=7B2FF7" height="180"/>
+<a href="https://www.linkedin.com/in/manish-kumar-b4a049218">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin-alt&logoColor=0A66C2"/>
+</a>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishpaliwal0113&theme=tokyonight&hide_border=true&background=0D0221&ring=7B2FF7&fire=FF2E63&currStreakLabel=FFFFFF" height="180"/>
+<a href="https://leetcode.com/manishkumar92913/">
+  <img src="https://img.shields.io/badge/LeetCode-0D0221?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://codeforces.com/profile/Manish0113">
+  <img src="https://img.shields.io/badge/Codeforces-0D0221?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/>
+</a>
+
+<a href="mailto:mkpaliwal0113@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=FF2E63"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishpaliwal0113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=7B2FF7&text_color=FFFFFF"/>
-</p>
-
----
-
-### 🏆 Achievements
-- ⭐ LeetCode Rating: 1721 (Top ~13%)
-- 🏅 Global Rank 644
-- 💯 1300+ Problems Solved
-
----
-
-### 📫 Connect with Me
-
-<p>
-  <a href="mailto:mkpaliwal0113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manish-kumar-b4a049218">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-I love building **fast & scalable backend systems 🚀**
