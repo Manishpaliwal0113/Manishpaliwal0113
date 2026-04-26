@@ -1,22 +1,42 @@
 <!-- 🔷 Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="banner" />
+  <img src="banner.png" alt="banner" />
 </p>
 
 ---
 
 ## 👋 Hi there, I'm Manish Kumar!
-
-💻 Backend Software Engineer | Java | Spring Boot | Microservices  
-🚀 Building scalable systems & solving real-world problems  
+💻 I'm a Backend Developer with 2+ years of experience in building high-scale distributed systems using **Java, Spring Boot, and Apache Kafka**. I love turning ideas into robust, efficient, and impactful solutions.
 
 ---
 
-### 🚀 About Me
-- 🔭 Working at **Incture Technologies**
-- 🌱 Learning **System Design & Cloud (Kubernetes, Azure)**
-- 💡 Strong in **DSA (1300+ problems solved)**
-- ⚡ Focused on **performance & scalable APIs**
+## When I code, I rely on
+<div>
+  <img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=java&logoColor=FF2E63"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-0D0221?style=for-the-badge&logo=springboot&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-0D0221?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/REST%20API-0D0221?style=for-the-badge&logoColor=08F7FE&color=0D0221"/>
+
+  <img src="https://img.shields.io/badge/C-0D0221?style=for-the-badge&logo=c&logoColor=A259FF"/>
+  <img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=c%2B%2B&logoColor=08F7FE"/>
+  <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=FFD300"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=FF00FF"/>
+
+  <img src="https://img.shields.io/badge/MySQL-0D0221?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=7B61FF"/>
+  <img src="https://img.shields.io/badge/Redis-0D0221?style=for-the-badge&logo=redis&logoColor=FF2E63"/>
+
+
+  <img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=08F7FE"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0D0221?style=for-the-badge&logo=kubernetes&logoColor=4D96FF"/>
+  <img src="https://img.shields.io/badge/Azure-0D0221?style=for-the-badge&logo=microsoftazure&logoColor=00B0FF"/>
+  <img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF3D00"/>
+  <img src="https://img.shields.io/badge/Linux-0D0221?style=for-the-badge&logo=linux&logoColor=FFD300"/>
+
+  <img src="https://img.shields.io/badge/HTML5-0D0221?style=for-the-badge&logo=html5&logoColor=FF5F1F"/>
+  <img src="https://img.shields.io/badge/CSS3-0D0221?style=for-the-badge&logo=css3&logoColor=08F7FE"/>
+  <img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00F5FF"/>
+</div>
 
 ---
 
