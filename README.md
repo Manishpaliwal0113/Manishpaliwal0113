@@ -1,83 +1,77 @@
-## Hi there 👋, I'm Manish Kumar
-
-🚀 Backend Software Engineer | Java | Spring Boot | Microservices  
-💻 Passionate about building scalable systems & solving complex problems  
+<!-- 🔷 Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="banner" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working at **Incture Technologies** as an Associate Software Engineer  
-- 🌱 Exploring **Distributed Systems, System Design & Cloud (Azure, Kubernetes)**  
-- 💡 Strong in **Data Structures & Algorithms (1300+ LeetCode problems solved)**  
-- ⚡ Love optimizing performance & building low-latency APIs  
+## 👋 Hi there, I'm Manish Kumar!
+
+💻 Backend Software Engineer | Java | Spring Boot | Microservices  
+🚀 Building scalable systems & solving real-world problems  
+
+---
+
+### 🚀 About Me
+- 🔭 Working at **Incture Technologies**
+- 🌱 Learning **System Design & Cloud (Kubernetes, Azure)**
+- 💡 Strong in **DSA (1300+ problems solved)**
+- ⚡ Focused on **performance & scalable APIs**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-`Java` `C++` `JavaScript` `SQL` `Python (Basics)`  
-
-**Backend & Frameworks:**  
-`Spring Boot` `Spring MVC` `Spring Data JPA` `Hibernate` `REST APIs`  
-
-**Tools & Technologies:**  
-`Apache Kafka` `Docker` `Kubernetes` `MySQL` `SAP S/4HANA` `Azure`  
-
-**Frontend:**  
-`React.js` `HTML` `CSS` `Bootstrap`  
-
----
-
-### 🚀 Projects
-
-#### 🎮 Tic-Tac-Toe
-- Built using JavaScript (Frontend project for fun)
-  
-#### 🧾 Supermarket Billing System
-- C++ OOP-based system  
-- Features: product management, checkout, admin dashboard  
-
-#### 🔧 Motor Part Shop System
-- Inventory + sales tracking system using C++  
-
-#### 📊 Data Structures & Algorithms
-- Comprehensive DSA implementations in C++  
-
-#### 💪 Gold Gym Master
-- React-based fitness platform  
-- 1000+ exercises with search functionality  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 ---
 
-### 💼 Experience
+### 🚀 Featured Projects
+- 🎮 Tic-Tac-Toe (JavaScript)
+- 🧾 Supermarket Billing System (C++)
+- 🔧 Motor Part Shop (C++)
+- 📊 Data Structures & Algorithms (C++)
+- 💪 Gold Gym Master (React)
 
-**Associate Software Engineer – Incture Technologies (2024 - Present)**  
-- Built scalable backend services for invoice processing systems  
-- Designed REST APIs using Spring Boot  
-- Integrated systems with SAP S/4HANA  
-- Optimized database performance & improved system efficiency  
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manishpaliwal0113&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishpaliwal0113&theme=radical"/>
+</p>
 
 ---
 
 ### 🏆 Achievements
-- ⭐ **LeetCode Rating: 1721 (Top ~13%)**
-- 🏅 Global Rank 644 in LeetCode BiWeekly Contest  
-- 💯 Solved 1300+ DSA problems  
+- ⭐ LeetCode Rating: 1721 (Top ~13%)
+- 🏅 Global Rank 644
+- 💯 1300+ Problems Solved
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Email: mkpaliwal0113@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/manish-kumar-b4a049218  
-- 🧠 LeetCode: https://leetcode.com/manishkumar92913/  
-- ⚔️ Codeforces: https://codeforces.com/profile/Manish0113  
-- 💻 GitHub: https://github.com/Manishpaliwal0113  
+<p>
+  <a href="mailto:mkpaliwal0113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manish-kumar-b4a049218">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
 ### ⚡ Fun Fact
-I enjoy turning complex problems into simple, scalable solutions 🚀  
-
----
+I love building **fast & scalable backend systems 🚀**
